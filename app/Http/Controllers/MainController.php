@@ -26,7 +26,7 @@ class MainController extends Controller
         return view('contact');
     }
 
-    public function MentionslegalesController()
+    public function MentionsLegalesController()
     {
         return view('mentions-legales');
     }   

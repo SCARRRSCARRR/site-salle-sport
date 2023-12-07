@@ -3,5 +3,5 @@
 @section('title','Tarifs')
 
 @section('content')
-<h1>Tarifs</h1>
+<h2>Tarifs</h2>
 @endsection

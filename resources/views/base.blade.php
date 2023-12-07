@@ -16,14 +16,14 @@
                   <a href="{{ route('main.cours')}}">Cours</a>
                   <a href="{{ route('main.contact')}}">Contact</a>
                   <a href="{{ route('main.tarifs')}}">Tarifs</a>
-                  <a href="{{ route('main.mentions-legales')}}">Mentions-legales</a>
+                  <a href="{{ route('main.mentions-legales')}}">Mentions legales</a>
                </li>
             </ul>
         </nav>
     </header>
     @yield('content')
     <footer>
-          <li><a href="{{ route('main.mentions-legales')}}">mentions-legales</a></li>     
+          <li><a href="{{ route('main.mentions-legales')}}">Mentions legales</a></li>     
     </footer>
     
 </body>
