@@ -68,4 +68,13 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 Photo de <a href="https://unsplash.com/fr/@attentieattentie?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Attentie Attentie</a> sur <a href="https://unsplash.com/fr/photos/homme-debout-et-marchant-sur-le-ring-de-boxe-entoure-de-gens-ig7vN6OkGNE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
   Photo de <a href="https://unsplash.com/fr/@1walter2?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Johann Walter Bantz</a> sur <a href="https://unsplash.com/fr/photos/chemise-a-manches-longues-rayee-noire-et-blanche-pour-homme-Clv9DfJLwac?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+  Photo de <a href="https://unsplash.com/fr/@echaparro?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Edgar Chaparro</a> sur <a href="https://unsplash.com/fr/photos/photo-en-niveaux-de-gris-dun-homme-qui-sentraine-sHfo3WOgGTU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+
+  Photo de <a href="https://unsplash.com/fr/@dncerullo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Danielle Cerullo</a> sur <a href="https://unsplash.com/fr/photos/femme-debout-entouree-dequipements-dexercice-CQfNt66ttZM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+  Photo de <a href="https://unsplash.com/fr/@good_citizen?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Humphrey Muleba</a> sur <a href="https://unsplash.com/fr/photos/lot-de-velo-dexercice-noir-spin-LOA2mTj1vhc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+  
   
