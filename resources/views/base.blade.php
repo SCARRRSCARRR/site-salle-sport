@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>nom du site</h1>
+        <h1>O CNAMO SPORT</h1>
         <nav>
             <ul>
                <li> 
