@@ -1,7 +1,7 @@
 @extends('base')
 
-@section('title','Accueil')
+@section('title','Tarifs')
 
 @section('content')
-<h4>tarifs</h4>
+<h1>Tarifs</h1>
 @endsection

@@ -12,19 +12,18 @@
         <nav>
             <ul>
                <li> 
-                  <a href="{{ route('main.accueil')}}">accueil</a>
-                  <a href="{{ route('main.cours')}}">cours</a>
-                  <a href="{{ route('main.contact')}}">contact</a>
-                  <a href="{{ route('main.tarifs')}}">tarifs</a>
-                  <a href="{{ route('main.mentions-legales')}}">mentions-legales</a>
+                  <a href="{{ route('main.accueil')}}">Accueil</a>
+                  <a href="{{ route('main.cours')}}">Cours</a>
+                  <a href="{{ route('main.contact')}}">Contact</a>
+                  <a href="{{ route('main.tarifs')}}">Tarifs</a>
+                  <a href="{{ route('main.mentions-legales')}}">Mentions-legales</a>
                </li>
             </ul>
         </nav>
     </header>
     @yield('content')
     <footer>
-          <li><a href="{{ route('main.mentions-legales')}}">mentions-legales</a></li>
-          
+          <li><a href="{{ route('main.mentions-legales')}}">mentions-legales</a></li>     
     </footer>
     
 </body>

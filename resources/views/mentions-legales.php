@@ -1,7 +1,7 @@
 @extends('base')
 
-@section('title','Accueil')
+@section('title','Mentions-légales')
 
 @section('content')
-<h5>mentions-legales</h5>
+<h5>Mentions-legales</h5>
 @endsection
