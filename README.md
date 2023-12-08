@@ -67,14 +67,55 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 Photo de <a href="https://unsplash.com/fr/@attentieattentie?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Attentie Attentie</a> sur <a href="https://unsplash.com/fr/photos/homme-debout-et-marchant-sur-le-ring-de-boxe-entoure-de-gens-ig7vN6OkGNE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
+   ## Installation
+
+```bash https://github.com/SCARRRSCARRR/site-salle-sport
+git 
+cd site-salle-sport
+composer install
+npm install
+
+ ## projet du restaurant  0cnamo
+
+ce projet est un site web test poour la formation Devweb DU CNAM
+
+## prérequis
+
+- apache 2.4.54
+mariadb 10.10.2
+php 8.2.0
+composer 2.6.5
+node js et npm
+
+## utilisation 
+
+dans le terminal :
+
+```
+php artisan serve 
+
+```
+
+aller sur la page [http://127.0.0.1:8000].
+
+Dans un premier terminal, lancez :
+bash
+php artisan serve
+
+Dans un autre terminal, lancez :
+```bash
+npm run dev
+```
+Pour voir la page d'accueil, ouvrez : [Accueil] ([http://127.0.0.1:8000].)
+
+## Mentions légales
+Les images suivantes ont été utilisées : 
+
   Photo de <a href="https://unsplash.com/fr/@1walter2?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Johann Walter Bantz</a> sur <a href="https://unsplash.com/fr/photos/chemise-a-manches-longues-rayee-noire-et-blanche-pour-homme-Clv9DfJLwac?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
-  Photo de <a href="https://unsplash.com/fr/@echaparro?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Edgar Chaparro</a> sur <a href="https://unsplash.com/fr/photos/photo-en-niveaux-de-gris-dun-homme-qui-sentraine-sHfo3WOgGTU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  Photo de <a href="https://unsplash.com/fr/@echaparro?utm_content=creditCopyText&utm_medium=referralutm_source=unsplash">Edgar Chaparro</a> sur <a href="https://unsplash.com/fr/photos/photo-en-niveaux-de-gris-dun-homme-qui-sentraine-sHfo3WOgGTU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
 
   Photo de <a href="https://unsplash.com/fr/@dncerullo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Danielle Cerullo</a> sur <a href="https://unsplash.com/fr/photos/femme-debout-entouree-dequipements-dexercice-CQfNt66ttZM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
-  Photo de <a href="https://unsplash.com/fr/@good_citizen?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Humphrey Muleba</a> sur <a href="https://unsplash.com/fr/photos/lot-de-velo-dexercice-noir-spin-LOA2mTj1vhc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-  
-  
-  
+ Photo de <a href="https://unsplash.com/fr/@good_citizen?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Humphrey Muleba</a> sur <a href="https://unsplash.com/fr/photos/lot-de-velo-dexercice-noir-spin-LOA2mTj1vhc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
