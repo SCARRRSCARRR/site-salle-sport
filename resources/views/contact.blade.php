@@ -1,13 +1,13 @@
 @extends('base')
 
-@section('title','Accueil')
+@section('title','Contact')
 
 @section('content')
 <h2>Contact</h2>
 
 <ul>
     <li>   
-       <h3>Telephone : le 06 00 00 00 00</h>3
+       <h3>Telephone : le 06 00 00 00 00</h3>
     </li>
 
     <li>
